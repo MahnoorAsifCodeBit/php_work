@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #800080 #FFC0CB;
+
+
+
+}
+
+.card {
+    width: 100%;
+    max-width: 400px;
+    border: none;
+    border-radius: 1rem;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #007bff;
+}

@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+ /* background: linear-gradient(to right, #007bff, #6a11cb);   */
+   /* background: linear-gradient(  #800080, #FFC0CB); */
+   background: linear-gradient(  #B793C9, #D26B9D);
+
+
+} 
+
+.card {
+    width: 100%;
+    max-width: 400px;
+    border: none;
+    border-radius: 1rem;
+    background: linear-gradient(#042440 , #042440, black);
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #007bff;
+}
